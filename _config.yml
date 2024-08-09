@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/n_logo.png"
+logo: "/assets/images/Nuria Gutierrez.jpg"
 float_logo: false # true, false (default)
 
 # blog cover
@@ -18,7 +18,7 @@ cover: "/assets/images/teide.jpg"
 
 name: 'Nuria Gutiérrez'
 author: 'Nuria Gutiérrez'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/Nuria Gutierrez.jpg"
 
 paginate:	5
 
