@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Nuria Gutiérrez"
 description: > # this means to ignore newlines until "email:"
-   Literacy researcher and Language aficionada
+   Literacy researcher and Languages aficionada
 
 email: a-mail@mail.mail
 #blog logo
@@ -14,7 +14,7 @@ logo: "/assets/images/Nuria Gutierrez.jpg"
 float_logo: false # true, false (default)
 
 # blog cover
-cover: "/assets/images/teide_2.jpg"
+cover: "/assets/images/teide_4.jpg"
 
 name: 'Nuria Gutiérrez'
 author: 'Nuria Gutiérrez'
